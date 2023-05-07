@@ -12,7 +12,7 @@ Deploy: (EM BREVE)
 
 ### Objetivo
 
-(EM BREVE)
+Aprimorar meus conhecimentos de React JS e API´s.
 
 ### Desafio
 
