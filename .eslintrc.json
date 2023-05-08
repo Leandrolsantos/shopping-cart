@@ -33,7 +33,7 @@
             "error",
             "always"
         ],
-        "jsx-quotes":[
+        "jsx-quotes": [
             2,
             "prefer-double"   
         ],
