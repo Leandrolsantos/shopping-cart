@@ -16,7 +16,7 @@ Aprimorar meus conhecimentos de React JS e API´s. Aprender a organizar melhor a
 
 ### Desafio
 
-Este é mais um projeto que utilizo REACT, mas desta vez quero expandir meus conhecimentos.
+Este é mais um projeto que utilizo REACT, mas desta vez quero expandir meus conhecimentos. Estou conseguindo progredir bem, estou desenvolvendo no Windows então estou usando a identação LF para deixar tudo organizado. O REACT tem essa peculiaridade, pois se não tiver tudo organizado o código não funciona e acho isso um ponto positivo para esse framework/biblioteca de JS.
 
 ### Conclusão
 
