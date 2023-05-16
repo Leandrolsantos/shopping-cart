@@ -3,6 +3,7 @@ import propTypes from 'prop-types';
 import { BsFillCartPlusFill } from 'react-icons/bs';
 
 import './ProductCard.css';
+import formatCurrency from '../../utils/formatCurrency';
 
 function ProductCart({ data }) {
   const { title, thumbnail, price } = data;
@@ -17,11 +18,7 @@ function ProductCart({ data }) {
       />
 
       <div className="card__infos">
-        <h2 className="card__price">{price.toLocaleString('pt-br', {
-          style: 'currency',
-          currency: 'BRL',
-
-        })}</h2>
+        <h2 className="card__price">{formatCurrency(price, 'BRL')}</h2>
         <h2 className="card__title">{title}</h2>
       </div>
 
