@@ -20,7 +20,7 @@ Este é mais um projeto que utilizo REACT, mas desta vez quero expandir meus con
 
 ### Conclusão
 
-(EM BREVE)
+Estou quase finalizando ainda faltam alguns ajustes, mas o projeto está quase finalizado. Estou bastante feliz de como está ficando e aprendendo bastante, em breve irei finalizar e modificar mais a aparência para que fique diferente da página do ML.
 
 ### Ferramentas Utilizadas
 
