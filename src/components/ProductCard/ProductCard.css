@@ -8,6 +8,7 @@
   margin: 0 auto;
   position: relative;
   transition: 0.2s ease-in-out;
+  border-radius: 18px;
 }
 
 .card__image {
@@ -37,7 +38,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  width: 45px;
+  width: 30px;
   height: 45px;
   margin: 12px 15px;
   color: #0c5dd6;
