@@ -4,7 +4,7 @@
 
 ![](./assets/img/tela2.gif)
 
-Deploy: (EM BREVE)
+Deploy: https://shopping-cart-qcaki67w1-leandrolsantos.vercel.app/
 
 ## Sobre
 
