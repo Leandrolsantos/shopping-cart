@@ -10,6 +10,11 @@
   position: relative;
   margin-left: 20px;
   color: #333;
+  transition: 0.5s ease-in-out;
+}
+
+.cart__button:hover {
+  transform: scale(1.2);
 }
 
 .cart-status {

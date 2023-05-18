@@ -1,8 +1,8 @@
-# Shopping Cart
+# Shopping Cart - Compras Online
 
-![](./)
+![](./assets/img/tela1.png)
 
-![](./)
+![](./assets/img/tela2.gif)
 
 Deploy: (EM BREVE)
 

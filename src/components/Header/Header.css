@@ -1,13 +1,14 @@
 .header {
-  background-color: #00a2ff;
+  background: linear-gradient(rgb(65, 167, 201), rgb(91, 126, 231));
   position: fixed;
   width: 100%;
   z-index: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.718);
 }
 
 .header > div {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 22px;
 }

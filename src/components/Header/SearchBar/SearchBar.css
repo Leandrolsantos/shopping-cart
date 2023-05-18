@@ -23,9 +23,14 @@
 .search__button {
   background: none;
   border: none;
-  font-size: 1rem;
+  font-size: 1.1rem;
   display: flex;
   align-items: center;
   justify-content: center;
   color: #333;
+  transition: 0.3s ease-in-out;
+}
+
+.search__button:hover {
+  transform: scale(1.2);
 }
