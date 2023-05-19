@@ -8,7 +8,7 @@ Deploy: https://shopping-cart-qcaki67w1-leandrolsantos.vercel.app/
 
 ## Sobre
 
-É um carrinho de compras para uso em qualquer tipo de produto ou serviço. Estou iniciando este projeto através de estudos de acódigos na Web. A intenção é criar um carrinho de compras completo usando a API para mostrar os preços dos produtos, em breve irei iniciar o JS e o CSS.
+É um carrinho de compras para uso em qualquer tipo de produto ou serviço. Estou iniciando este projeto através de estudos de acódigos na Web. A intenção é criar um carrinho de compras completo usando a API para mostrar os preços dos produtos. Estou usando a API que busca produtos do Mercado Livre, e por padrão no momento deixei como exemplo a busca por Iphones.
 
 ### Objetivo
 
@@ -20,7 +20,7 @@ Este é mais um projeto que utilizo REACT, mas desta vez quero expandir meus con
 
 ### Conclusão
 
-Estou quase finalizando ainda faltam alguns ajustes, mas o projeto está quase finalizado. Estou bastante feliz de como está ficando e aprendendo bastante, em breve irei finalizar e modificar mais a aparência para que fique diferente da página do ML.
+Estou quase finalizando ainda falta criar o carrinho de compras e deixar a barra de search funcionando, mas o projeto está quase finalizado. Estou bastante feliz de como está ficando e sigo aprendendo bastante, em breve irei finalizar o projeto.
 
 ### Ferramentas Utilizadas
 
